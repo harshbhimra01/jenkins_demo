@@ -1,4 +1,4 @@
-printprint('This is an print statement')
+print('This is an print statement')
 print("Another print statement")
 print("Updated to third statement")
 print('if loop')
